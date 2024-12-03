@@ -15,7 +15,7 @@
 | 5V                    | 5V                   |
 | GND                   | GND                  |
 
-<img src="assets/README/image-20241203142322453.png" alt="image-20241203142322453" style="zoom: 25%;" />
+<img src="image-20241203142322453.png" alt="image-20241203142322453" style="zoom: 25%;" />
 
 
 
